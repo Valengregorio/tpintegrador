@@ -1,0 +1,66 @@
+.Img{
+    opacity: 0.5;
+  }
+
+ .imagen1{
+  width: auto;
+  height:500px;
+ }
+ .parrafo1 {
+ font-size: small;
+  text-align: center;
+ }
+ .parrafo2 {
+ font-size:medium;
+  text-align: center;
+ }
+
+ .Titulobsas{
+  font-size:large;
+ }
+
+.formulario{
+  display:flex;
+  justify-content: center;
+}
+
+.pie {
+background-color: #1c445a;
+}
+.Izq {
+text-align: left;
+padding: 0em;
+}
+.Enviarformulario {
+background-color: #95c842 !important;
+border-color: #95c842 !important;
+}
+.menu-container{
+  display:flex;
+  justify-content:right;
+  background-color: rgb(74, 75, 75) !important;
+}
+.menu-container ul li {
+  display:inline-block;
+  justify-content: center;
+
+}
+
+.menu-container ul a {
+  display:inline-block;
+  text-decoration: none;
+  
+}
+.menuItem{
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.TituloConf{
+  font-size:xx-large !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
